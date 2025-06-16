@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/titiesagency/static/css/main.50f785b5.css",
+    "main.js": "/titiesagency/static/js/main.aade40c8.js",
+    "static/js/453.dd3e7741.chunk.js": "/titiesagency/static/js/453.dd3e7741.chunk.js",
+    "index.html": "/titiesagency/index.html",
+    "main.50f785b5.css.map": "/titiesagency/static/css/main.50f785b5.css.map",
+    "main.aade40c8.js.map": "/titiesagency/static/js/main.aade40c8.js.map",
+    "453.dd3e7741.chunk.js.map": "/titiesagency/static/js/453.dd3e7741.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50f785b5.css",
+    "static/js/main.aade40c8.js"
+  ]
+}
